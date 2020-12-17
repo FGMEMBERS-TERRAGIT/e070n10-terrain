@@ -1,0 +1,5 @@
+OBJECT_BASE 4184815.btg
+OBJECT VASL.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 75.931348 17.633948 485.7 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 75.935655 17.625872 483.4 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 75.934969 17.626008 483.4 0.00
